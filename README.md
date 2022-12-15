@@ -1,6 +1,6 @@
 <h1 align="center"> Compre de minas </h1>
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-![Mulheres unidas](../../Fitness%20inspiration.jpg)
+
+![Tres mulheres juntas](Fotos/Fitness%20inspiration.jpg)
 
 # Apresentação
 
@@ -9,21 +9,21 @@ Meu nome é Aurora Felix, tenho 26 anos, sou Potiguar e sou graduada em Psicolog
 
 ## Rotas do projeto
 
-![Rota Post funcionando.](../../RotaPost.jpeg)
+![Rota Post](Fotos/RotaPost.jpeg)
 
-![Rota GetAll funcionando.](../../RotaGet.jpeg)
+![Rota GetAll](Fotos/RotaGet.jpeg)
     
-![Rota Delete](../../RotaDelete.jpeg)
+![Rota Delete](Fotos/RotaDelete.jpeg)
 
-![Rota Patch funcionando](../../RotaPatch.jpeg)
+![Rota Patch funcionando](Fotos/RotaPatch.jpeg)
 
-![Rota Get](../../RotaGet2.jpeg)
+![Rota Get2](Fotos/RotaGet2.jpeg)
 
 ## Arquivos adicionais
 
-![Swagger](../../Swagger.jpeg)
+![Swagger](Fotos/Swagger.jpeg)
 
-![Render](../../render.jpeg)
+![Render](Fotos/render.jpeg)
 
 
 ## Agradecimentos
@@ -34,4 +34,4 @@ Essa jornada não teria sido possivel sem o batalhão de pessoas investidas na m
 - Para Gaia Maria me falta até palavras. Gaia se dedicou de corpo inteiro e suas aulas foram um sopro de ar fresco para mim, em poucas aulas você conseguiu acalmar meu coração que vinha apertado diante de tanto contéudo para aprender. Nunca achei que ia conseguir aprender banco de dados sorrindo a aula inteira do jeito que foi. Você é um simbolo de competência e uma potência gigante na área Tech. Muito obrigada por toda a ajuda enquanto professora e monitora. Guardo um carinho imenso por tu e só te desejo sucesso.
 Por fim, gostaria de agradecer as minhas companheiras de classe, minhas companheiras de guerra. Sou grata por cada encontro que tivemos juntas, sou grata por ter escutado vocês em cada encontro, por cada colaboração e contribuições feitas em aula, por cada história que pude ouvir e por cada risada que compartilhamos. Sigo mais forte pois não ando só, carrego comigo um pedacinho de cada uma de vocês pro resto da minha vida. Properidade para nós sempre!
 
-![Mãos dadas](../../Helena%20Morani%20(@helenamorani)%20%E2%80%A2%20Instagram%20photos%20and%20videos.jpg)
+![Mãos dadas](Fotos/Helena%20Morani%20(@helenamorani)%20%E2%80%A2%20Instagram%20photos%20and%20videos.jpg)
