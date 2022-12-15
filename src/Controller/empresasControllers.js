@@ -72,7 +72,7 @@ const deleteCompany = async (req, res) => {
 const findCompanyByLocation = async (req, res) => {
     const location = req.query.Location;
     const reg = new RegExp(location, 'i');
-    const findCompany = await companiesModel.filter(reg);
+    const findCompany = await companiesModel.find({Location: {$regex: reg}});
     if (findCompany == null) {
         res.status(404).json({message: "Não consegui encontrar essa empresa, você tem certeza que a informação está correta?"})
     };
